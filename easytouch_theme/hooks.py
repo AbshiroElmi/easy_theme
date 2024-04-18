@@ -8,6 +8,8 @@ app_license = "mit"
 
 # Includes in <head>
 # ------------------
+app_include_js =  ["easytouch.bundle.js"]
+app_include_css = "easytouch.bundle.css"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/easytouch_theme/css/easytouch_theme.css"
@@ -158,6 +160,9 @@ app_license = "mit"
 
 # Overriding Methods
 # ------------------------------
+override_whitelisted_methods = {
+	"frappe.core.doctype.user.user.switch_theme": "easytouch_theme.overrides.user.user.switch_theme"
+}
 #
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "easytouch_theme.event.get_events"
