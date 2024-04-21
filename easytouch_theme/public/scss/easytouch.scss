@@ -1,16 +1,16 @@
 
 [data-theme="easytouch"] {
     /* Background Colors */
-    --gray-50: #E8F5FE;
-    --gray-100: #D0E7FA;
-    --gray-200: #A1D0F7;
-    --gray-300: #6DB9F1;
-    --gray-400: #4091E0;
-    --gray-500: #2567B5;
-    --gray-600: #1C4F8D;
-    --gray-700: #173F6E;
-    --gray-800: #112F4F;
-    --gray-900: #0B1E30;
+    --gray-50: #000000;
+    --gray-100: #ffffff;
+    --gray-200: #3BAB97;
+    --gray-300: #000000; //icons
+    --gray-400: #636363;
+    --gray-500: #3BAB97;
+    --gray-600: #feffff;
+    --gray-700: #ffffff; //border
+    --gray-800: #3BAB97;
+    --gray-900: #E7E5DF;
 
     /* Primary Text Colors */
     --text-muted: var(--gray-400);

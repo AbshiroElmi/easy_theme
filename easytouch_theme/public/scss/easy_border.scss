@@ -1,0 +1,44 @@
+[data-theme="easytouch"] {
+  
+     .standard-sidebar-label {
+        color: #0333b6;
+        
+    }
+   .sidebar-item-label{
+    // color: #0c0c0c;
+   }
+   .layout-main-section{
+    background-color: #ffffff;
+    box-shadow: 2px 2px 2px 2px #E7E5DF;
+   }
+
+
+   .layout-side-section{
+    background-color:  #ffffff;
+    border-radius: 12px;
+    box-shadow: 2px 2px 2px 2px #E7E5DF;
+   }
+
+   .awesomplete {
+    & > ul {
+        // background-color: #0333b6;
+    }
+   }
+
+   .sidebar-item-icon{
+    // color: #e02323;
+
+   }
+   .item-icon{
+    // color: #e02323;
+    // font-size: 56px;
+    // background-color: #550707;
+   }
+   .indicator{
+background-color: #0c0c0c;
+   }
+   .collapse-indicator{
+        //   background-color: yellow;
+
+   }
+}

@@ -1,15 +1,15 @@
-/* ../../../../../tmp/tmp-35995-8wPgwFJ03K8e/easytouch_theme/easytouch_theme/public/scss/easytouch.bundle.css */
+/* ../../../../../tmp/tmp-25941-r7oeE1c21W2b/easytouch_theme/easytouch_theme/public/scss/easytouch.bundle.css */
 [data-theme=easytouch] {
-  --gray-50: #E8F5FE;
-  --gray-100: #D0E7FA;
-  --gray-200: #A1D0F7;
-  --gray-300: #6DB9F1;
-  --gray-400: #4091E0;
-  --gray-500: #2567B5;
-  --gray-600: #1C4F8D;
-  --gray-700: #173F6E;
-  --gray-800: #112F4F;
-  --gray-900: #0B1E30;
+  --gray-50: #000000;
+  --gray-100: #ffffff;
+  --gray-200: #3BAB97;
+  --gray-300: #000000;
+  --gray-400: #636363;
+  --gray-500: #3BAB97;
+  --gray-600: #feffff;
+  --gray-700: #ffffff;
+  --gray-800: #3BAB97;
+  --gray-900: #E7E5DF;
   --text-muted: var(--gray-400);
   --text-light: var(--gray-300);
   --text-color: var(--gray-50);
@@ -161,4 +161,19 @@
 [data-theme=easytouch] .indicator {
   --indicator-dot-cyan: var(--bg-cyan);
 }
-/*# sourceMappingURL=easytouch.bundle.3UER7FKE.css.map */
+[data-theme=easytouch] .standard-sidebar-label {
+  color: #0333b6;
+}
+[data-theme=easytouch] .layout-main-section {
+  background-color: #ffffff;
+  box-shadow: -2px 2px 2px 2px #E7E5DF;
+}
+[data-theme=easytouch] .layout-side-section {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: -2px 2px 2px 2px #E7E5DF;
+}
+[data-theme=easytouch] .indicator {
+  background-color: #0c0c0c;
+}
+/*# sourceMappingURL=easytouch.bundle.QCXSLXXD.css.map */

@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include easytouch_theme *.css
+recursive-include easytouch_theme *.csv
+recursive-include easytouch_theme *.html
+recursive-include easytouch_theme *.ico
+recursive-include easytouch_theme *.js
+recursive-include easytouch_theme *.json
+recursive-include easytouch_theme *.md
+recursive-include easytouch_theme *.png
+recursive-include easytouch_theme *.py
+recursive-include easytouch_theme *.svg
+recursive-include easytouch_theme *.txt
+recursive-exclude easytouch_theme *.pyc
