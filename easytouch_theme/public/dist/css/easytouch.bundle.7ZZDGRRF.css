@@ -1,4 +1,4 @@
-/* ../../../../../tmp/tmp-25941-7oLs7LBjTCqc/easytouch_theme/easytouch_theme/public/scss/easytouch.bundle.css */
+/* ../../../../../tmp/tmp-42712-fSQluzSy0DYT/easytouch_theme/easytouch_theme/public/scss/easytouch.bundle.css */
 [data-theme=easytouch] {
   --gray-50: #000000;
   --gray-100: #ffffff;
@@ -161,9 +161,6 @@
 [data-theme=easytouch] .indicator {
   --indicator-dot-cyan: var(--bg-cyan);
 }
-[data-theme=easytouch] .standard-sidebar-label {
-  color: #0333b6;
-}
 [data-theme=easytouch] .layout-main-section {
   background-color: #ffffff;
   box-shadow: 2px 2px 2px 2px #E7E5DF;
@@ -176,4 +173,4 @@
 [data-theme=easytouch] .indicator {
   background-color: #0c0c0c;
 }
-/*# sourceMappingURL=easytouch.bundle.UVPATPKO.css.map */
+/*# sourceMappingURL=easytouch.bundle.7ZZDGRRF.css.map */
